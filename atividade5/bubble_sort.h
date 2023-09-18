@@ -1,0 +1,1 @@
+void ordernarArrayPalavras(char string[][100], int n);
